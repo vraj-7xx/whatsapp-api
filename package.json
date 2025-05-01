@@ -4,7 +4,7 @@
   "description": "This Package For Personal Use And Dont Try To Use It.",
   "main": "index.js",
   "scripts": {
-  "start": "npx wweb-mcp --mode whatsapp-api --auth-strategy local --api-key 03d81272ce71bd818b97858d7a5686684edb1e2f5f8f7f8c7ca9e8554f882a7d"
+  "start": "npx wweb-mcp --mode whatsapp-api --auth-strategy local"
   },
   "author": "Vraj Patel",
   "license": "ISC"
