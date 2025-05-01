@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-api",
+  "version": "1.0.0",
+  "description": "This Package For Personal Use And Dont Try To Use It.",
+  "main": "index.js",
+  "scripts": {
+  "start": "npx wweb-mcp --mode whatsapp-api --auth-strategy local"
+  },
+  "author": "Vraj Patel",
+  "license": "ISC"
+}
